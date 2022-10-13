@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-- I am (insert name), a **(insert major)** studying at the (insert university)! 
+- I am Absaar Ajaz, a **Computer Science** studying at the the University of South Florida! 
 - I am currently a (insert job position) for the (insert company)! 
 - I have previously worked as a (insert job position) for (insert company name)!
 
